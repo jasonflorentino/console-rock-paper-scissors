@@ -122,7 +122,7 @@ function playRound() {
   return true;
 }
 
-// Call this to play game
+// Call this function to play the game
 function playRockPaperScissors() {
   while (playRound()) {}
 }
